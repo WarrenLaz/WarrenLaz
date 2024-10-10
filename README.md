@@ -7,6 +7,5 @@
 
 ![WarrenLaz's Stats](https://github-readme-stats.vercel.app/api?username=WarrenLaz&theme=merko&show_icons=true&hide_border=false&count_private=true)
 <be>
-![WarrenLaz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WarrenLaz&theme=merko&hide_border=false)
-<be>
+
 ![WarrenLaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WarrenLaz&theme=merko&show_icons=true&hide_border=false&layout=compact)
