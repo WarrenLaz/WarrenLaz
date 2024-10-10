@@ -5,7 +5,4 @@
 
 <h3>📈 My Github Stats</h3>
 
-![WarrenLaz's Stats](https://github-readme-stats.vercel.app/api?username=WarrenLaz&theme=merko&show_icons=true&hide_border=false&count_private=true)
-<be>
-
 ![WarrenLaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WarrenLaz&theme=merko&show_icons=true&hide_border=false&layout=compact)
