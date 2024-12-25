@@ -1,5 +1,5 @@
 <center> 
-  <h1>👋 Hello World, I’m @WarrenLaz</h1>
+  <h1>I’m @WarrenLaz</h1>
 - 🏫 I'm a student at University of Michigan - Dearborn<br>
 - 📜 I'm pursuing a BS in Computer and Information Science<br>
 - 👀 Feel free to browse my wide variety of personal projects and explorations<br><br> 
